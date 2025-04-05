@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am an ICT engineer currently pursuing a master's degree in computer science – distributed and cloud systems. I completed my engineering studies with a grade of 5.0, during which I received a scholarship for academic achievements. I have extensive knowledge of network protocols and a basic understanding of scripting in Python and Bash. My interests in DevOps and cloud systems are reflected in my homelab project, which involves managing a server built on a Raspberry Pi. This project has given me a solid understanding of Docker and hands-on experience with the Linux operating system. Currently, I am using it to learn Kubernetes through the k3s distribution.
+
 <!--
 **devkinn/devkinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
