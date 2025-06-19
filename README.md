@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am an ICT engineer currently pursuing a master's degree in computer science – distributed and cloud systems. I completed my engineering studies with a grade of 5.0, during which I received a scholarship for academic achievements. I have extensive knowledge of network protocols and a basic understanding of scripting in Python and Bash. My interests in DevOps and cloud systems are reflected in my homelab project, which involves managing a server built on a Raspberry Pi. This project has given me a solid understanding of Docker and hands-on experience with the Linux operating system. Currently, I am using it to learn Kubernetes through the k3s distribution.
+I received a Bachelor’s degree from Poznan University of Technology (abbr. PUT) in the ICT field in 2025. During these studies I developed interests in Linux, self-hosting and then DevOps, which I decided to pursue as my professional career. I’ve also written an engineering thesis on IT systems monitoring using a Raspberry Pi. Currently, I am pursuing a Master’s degree in the distributed and cloud systems field at PUT.
+
+In my free time I like to read science fiction books, work on different personal side projects and play video games. I have also recently started learning to play the guitar.
 
 <!--
 **devkinn/devkinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
